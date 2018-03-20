@@ -3,7 +3,6 @@ using namespace std;
 
 float First, Second, Result;
 char Sign;
-int p;
 int main()
 {
 		cout << "First number: ";
